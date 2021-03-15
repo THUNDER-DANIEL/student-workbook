@@ -5,7 +5,7 @@ Read Building Blocks Of Web Development > GIT 101 and answer the following quest
 
 
 ### 1. In your own words, why do we use Git?
-
+Hello World 
 
 
 ### 2. What are the benefits of having multiple branches?
@@ -13,3 +13,16 @@ Read Building Blocks Of Web Development > GIT 101 and answer the following quest
 
 
 ### 3. What is the difference between Git and GitHub
+
+
+## Links
+[test-links](www.google.com)
+
+## Images 
+![](https://placehold.it/200x200)
+
+**bold**
+
+``` javascript
+var x = 99
+```
