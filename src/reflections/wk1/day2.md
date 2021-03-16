@@ -3,7 +3,8 @@
 Read Building Blocks Of Web Development > CSS and answer the following questions
 
 ### 1. What is a Pseudo-Class and what are some of the most common ones you think you will use
-
+        Is a keyword added to the selector to do a assigned task.
+        If had to guess maybe :hover.
 
 
 ### 2. What is Specificity and how might you use it to your benefit?
