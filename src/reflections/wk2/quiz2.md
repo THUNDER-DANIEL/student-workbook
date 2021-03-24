@@ -2,7 +2,8 @@
 
 **1.** Which keywords are used to declare a variable in JavaScript?
 <!-- enter you answer in the space below -->
-```
+  ```   
+        var / let / conts
 
 ```
 **2.** What is the definition of a function?
@@ -12,17 +13,23 @@
 ```
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
-```
+``` 
+S — Single responsibility principle
+O — Open closed principle
+L — Liskov substitution principle
+I — Interface segregation principle
+D — Dependency Inversion principle
 
 ```
 **4.** Given this array: 
 ```js
 let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 ``` 
+    fruit[2]
 What index is the pineapple's current position? How do you know?
 <!-- enter you answer in the space below -->
 ```
-
+    Arrays have 2 ways of counting content within it's container. Length and zero based index. The most commonly used is the zero based index -meaning the very first item in array is going to be zer0 !
 ```
 **5.** With these two objects: 
 ```js
