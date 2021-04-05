@@ -17,3 +17,5 @@ What are some of the benefits of the proxy object that we are using in our struc
         Proxy is created with two parameters:
         -target: the original object which you want to proxy
         -handler: an object that defines which operations will be intercepted and how to redefine intercepted operations.
+
+https://github.com/THUNDER-DANIEL/greglist

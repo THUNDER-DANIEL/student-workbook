@@ -6,3 +6,4 @@ This reflection is an open format, so it can be whatever you like. Take this opp
             I am very thankful to here.
              I was able to finally grasp MVC.  I can now see why there are so many moving pieces. In a strange way I feel like I learn more in the pressure of the checkpoints than normal weekly assignments. Because by then I have a wide range of abilites to use in the checkpoint.
             It's a no messing around process at Codeworks.
+
