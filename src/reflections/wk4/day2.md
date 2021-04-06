@@ -16,3 +16,6 @@ How do promises seek to resolve the issues of "callback hell"?
 What is the difference between .then() and .catch()?
 
         If the Promise fails then we will use the catch() - then() is used then the Promise doesn't fail. When the Pormise is resolved.
+
+
+https://github.com/THUNDER-DANIEL/spring21-gregslist-mvc
