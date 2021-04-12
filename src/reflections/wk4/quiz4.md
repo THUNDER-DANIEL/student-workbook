@@ -18,17 +18,31 @@ An event listener is a procedure in JavaScript that waits for an event to occur.
 **4.** What is a callback / higher order function?
 <!-- enter you answer in the space below -->
 ```
-
+                A callback function is a function that is passed as an argument to another function, to be “called back” at a later time. A function that accepts other functions as arguments is called a higher-order function, which contains the logic for when the callback function gets executed.
 ```
 **5.** What is a `promise`? How do you capture an error from a `promise`?
 <!-- enter you answer in the space below -->
 ```
+        a Promise s a proxy for a value not 
+        necessarily known when the promise is 
+        created. Catching error with 
+        try /catch
 
+        1- pending: initial state, neither
+         fulfilled nor rejected.
+
+        2- fulfilled: meaning that the 
+        operation was completed successfully.
+
+        3- rejected: meaning that the 
+        operation failed.
 ```
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
 ```
-
+                POST Method
+                GET Method
+                HEAD MEthod
 ```
 **7.** What does the `API` acronym stand for?
 <!-- enter you answer in the space below -->
