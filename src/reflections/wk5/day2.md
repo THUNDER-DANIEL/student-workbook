@@ -15,7 +15,7 @@ What are the three types of relationships?
 
 What are the benefits of the traditional linking of relationships instead of Embedding
 
-        123
+        To get the childs information with a relation to a parents id's. To know how it's all connected 
 
 
 

@@ -11,8 +11,11 @@ In simple terms what is a sub-document?
 
 When might you use a sub-document?
 
-        1234
+                When creating a new nested object with it's information
 
 How do you add to a collection of sub-documents? What about editing them?
 
-        123
+        By pushing the collection. You can edit the document directly like a normal object. 
+
+
+https://github.com/ThurberDaniel/NodeJS-Planets

@@ -58,5 +58,7 @@ function that will the receive the Request and Response objects, just like your 
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 <!-- enter you answer in the space below -->
 ```
-
+        async findAll(query){
+                let res = await dbContext.find({winter})
+                }
 ```
