@@ -1,4 +1,4 @@
-# Day 3 - DOTNET WEBAPI REVIEW
+# Day 3 - DOTNET WEBAPI
 
 Read Dotnet WebAPI's > SQL Injection, and answer the following questions
 
@@ -13,3 +13,5 @@ What are 3 methods SQL injection can be done by?
 How can we detect and sanitize SQL injection attacks?
 
         As SQL injection attacks exploit vulnerable Web application and database code, the only way to prevent them is to resolve your code's vulnerabilities. Any place that code dynamically generates a SQL query using data from an external source should be closely checked.
+
+https://github.com/ThurberDaniel/GroupMe

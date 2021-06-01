@@ -37,3 +37,5 @@ REFERENCES patients(id),
 )
 
         SELECT d., p. dp.Id as doctorsPatientsId dp.doctorId as doctorId, dp.patientId as patientId FROM doctors_patients dp JOIN doctors d ON d.id = dp.doctorId JOIN patients p ON p.id = dp.patientId WHERE doctorId = @id;
+
+https://github.com/ThurberDaniel/contractorAPI

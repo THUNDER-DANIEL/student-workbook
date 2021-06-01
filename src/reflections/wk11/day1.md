@@ -17,3 +17,5 @@ How does accessibility affect inheritance?
         public: The type or member can be accessed by any other code in the same assembly or another assembly that references it.
         private: The type or member can be accessed only by code in the same class or struct.
         protected: The type or member can be accessed only by code in the same class, or in a class that is derived from that class.
+
+https://github.com/ThurberDaniel/burgerShack_cSharp
